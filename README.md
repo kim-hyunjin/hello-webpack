@@ -1,12 +1,3 @@
-[참고자료]
-https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html#2-%EC%97%94%ED%8A%B8%EB%A6%AC%EC%95%84%EC%9B%83%ED%92%8B
-
-https://github.com/webpack-contrib/mini-css-extract-plugin
-
-https://github.com/webpack/webpack
-
-https://www.zerocho.com/category/Webpack/post/58aa916d745ca90018e5301d
-
 # 웹팩?
 
 웹팩은 여러개 파일을 하나의 파일로 합쳐주는 번들러(bundler)다. 하나의 시작점(entry point)으로부터 의존적인 모듈을 전부 찾아내서 하나의 결과물을 만들어 낸다.
@@ -96,3 +87,13 @@ module.exports = {
 ```
 
 현재 index.html에 직접 link로 css 파일을 달아주어야 적용된다...
+
+
+[참고자료]
+- https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html#2-%EC%97%94%ED%8A%B8%EB%A6%AC%EC%95%84%EC%9B%83%ED%92%8B
+
+- https://github.com/webpack-contrib/mini-css-extract-plugin
+
+- https://github.com/webpack/webpack
+
+- https://www.zerocho.com/category/Webpack/post/58aa916d745ca90018e5301d
